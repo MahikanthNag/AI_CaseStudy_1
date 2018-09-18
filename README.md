@@ -1,4 +1,4 @@
-# AI_CaseStudy_1
+# AI_CaseStudy_1 (Solved using A*, DFS and Backtracking)
 ## Description 
 
 ![Intro](https://raw.githubusercontent.com/MahikanthNag/AI_CaseStudy_1/master/Scooters.jpg)
