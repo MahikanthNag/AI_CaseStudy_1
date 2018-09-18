@@ -9,8 +9,8 @@ You are helping the LA Dept of Transportation (LADOT) to develop a pilot scooter
 •	Activity points are collected at each time step t when officers are in same square as scooters. One point per each scooter.
 •	The grid coordinate system will be indexed starting from the top-left corner.  An example of a 5 by 5 grid is given below with each cell’s coordinates:
 
-![Intro](https://raw.githubusercontent.com/MahikanthNag/AI_CaseStudy_1/SampleState1.png)
-![Intro](https://raw.githubusercontent.com/MahikanthNag/AI_CaseStudy_1/SampleState2.png)
+![Sample State 1](https://raw.githubusercontent.com/MahikanthNag/AI_CaseStudy_1/SampleState1.png)
+![Sample State 2](https://raw.githubusercontent.com/MahikanthNag/AI_CaseStudy_1/SampleState2.png)
 
 # Input: 
 The file input.txt in the current directory of your program will be formatted as follows:  
